@@ -1,0 +1,141 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,21 +4,9 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="1112bb56-dea7-4712-94dd-e0e80d3a4a5f" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/src/main/resources/db/migration/db.sql" afterDir="false" />
++    <list default="true" id="1112bb56-dea7-4712-94dd-e0e80d3a4a5f" name="Changes" comment="reg and auth">
++      <change afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/command/Status.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/currencymarket/ServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/ServerApplication.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/currencymarket/ServerTCP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/ServerTCP.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/currencymarket/client/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/client/Client.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/currencymarket/command/ClientAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/command/ClientAction.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/currencymarket/controller/RequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/controller/RequestHandler.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/currencymarket/db/DataBaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/db/DataBaseConnection.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/currencymarket/dto/SignUpDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/dto/SignUpDto.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/currencymarket/entity/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/entity/Client.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/currencymarket/repository/IClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/repository/IClient.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/currencymarket/repository/impl/ClientImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/repository/impl/ClientImpl.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/resources/db/migration/client.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db/migration/client.sql" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -29,8 +17,8 @@
+     <option name="RECENT_TEMPLATES">
+       <list>
+         <option value="Interface" />
+-        <option value="Enum" />
+         <option value="Class" />
++        <option value="Enum" />
+       </list>
+     </option>
+   </component>
+@@ -46,31 +34,30 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "WebServerToolWindowFactoryState": "false",
+-    "last_opened_file_path": "C:/Users/Nevels/Desktop",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "project.structure.last.edited": "Project",
+-    "project.structure.proportion": "0.0",
+-    "project.structure.side.proportion": "0.0",
+-    "settings.editor.selected.configurable": "preferences.lookFeel"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/Users/Nevels/Desktop&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
++    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
++    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+   },
+-  "keyToStringList": {
+-    "DatabaseDriversLRU": [
+-      "mysql"
++  &quot;keyToStringList&quot;: {
++    &quot;DatabaseDriversLRU&quot;: [
++      &quot;mysql&quot;
+     ],
+-    "com.intellij.ide.scratch.LRUPopupBuilder$1/": [
+-      "MySQL"
++    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/&quot;: [
++      &quot;MySQL&quot;
+     ]
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="CreateClassDialog.RecentsKey">
+       <recent name="org.example.repository" />
+@@ -122,8 +109,19 @@
+       <workItem from="1668107858513" duration="3637000" />
+       <workItem from="1668115700154" duration="5855000" />
+       <workItem from="1668157759136" duration="4978000" />
+-      <workItem from="1668184939881" duration="10007000" />
++      <workItem from="1668184939881" duration="10105000" />
++      <workItem from="1668452829395" duration="8000" />
++      <workItem from="1668460220641" duration="33000" />
++      <workItem from="1668590400669" duration="302000" />
++    </task>
++    <task id="LOCAL-00001" summary="reg and auth">
++      <created>1668211280346</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1668211280346</updated>
+     </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -139,6 +137,10 @@
+         </entry>
+       </map>
+     </option>
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="reg and auth" />
++    <option name="LAST_COMMIT_MESSAGE" value="reg and auth" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
+Index: src/main/java/com/currencymarket/command/Status.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/com/currencymarket/command/Status.java b/src/main/java/com/currencymarket/command/Status.java
+new file mode 100644
+--- /dev/null	
++++ b/src/main/java/com/currencymarket/command/Status.java	
+@@ -0,0 +1,5 @@
++package com.currencymarket.command;
++
++public enum Status {
++    USER_SUCSESSFULLY
++}

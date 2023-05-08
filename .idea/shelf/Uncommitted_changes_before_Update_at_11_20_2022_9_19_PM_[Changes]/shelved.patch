@@ -1,0 +1,320 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"1112bb56-dea7-4712-94dd-e0e80d3a4a5f\" name=\"Changes\" comment=\"feat: add HomePageDto\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/currencymarket/TestClass.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/currencymarket/controller/Controller.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/currencymarket/service/RegistrationService.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/java/com/currencymarket/service/impl/RegistrationServiceImpl.java\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/main/resources/application.properties\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/src/test/java/com/currencymarket/service/impl/RegistrationServiceImplTest.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/pom.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/pom.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/com/currencymarket/ServerApplication.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/com/currencymarket/ServerApplication.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/com/currencymarket/command/Exception.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/com/currencymarket/command/Status.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/com/currencymarket/command/Status.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/com/currencymarket/controller/ClientController.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/com/currencymarket/controller/RegistrationController.java\" beforeDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/com/currencymarket/db/DataBaseConnection.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/com/currencymarket/db/DataBaseConnection.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/com/currencymarket/dto/HomePageDto.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/com/currencymarket/dto/HomePageDto.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/com/currencymarket/dto/SignUpDto.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/com/currencymarket/dto/SignUpDto.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/com/currencymarket/repository/ClientService.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/com/currencymarket/repository/ClientDao.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/com/currencymarket/repository/RegistrationService.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/com/currencymarket/repository/RegistrationDao.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/com/currencymarket/repository/impl/ClientServiceImpl.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/com/currencymarket/repository/impl/ClientDaoImpl.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/src/main/java/com/currencymarket/repository/impl/RegistrationServiceImpl.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/main/java/com/currencymarket/repository/impl/RegistrationDaoImpl.java\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"CodeInsightWorkspaceSettings\">\r\n    <option name=\"optimizeImportsOnTheFly\" value=\"true\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Enum\" />\r\n        <option value=\"Interface\" />\r\n        <option value=\"Class\" />\r\n        <option value=\"JUnit3 Test Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"MavenImportPreferences\">\r\n    <option name=\"generalSettings\">\r\n      <MavenGeneralSettings>\r\n        <option name=\"useMavenConfig\" value=\"true\" />\r\n      </MavenGeneralSettings>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2HMvdg2ibVCvRE9NCnax1q2JIsk\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary\": \"JUnit3\",\r\n    \"com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3\": \"junit.framework.TestCase\",\r\n    \"jdk.selected.JAVA_MODULE\": \"openjdk-19\",\r\n    \"last_opened_file_path\": \"D:/CurrencyMarket-master\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"project.structure.last.edited\": \"Modules\",\r\n    \"project.structure.proportion\": \"0.0\",\r\n    \"project.structure.side.proportion\": \"0.0\",\r\n    \"settings.editor.selected.configurable\": \"preferences.pluginManager\"\r\n  },\r\n  \"keyToStringList\": {\r\n    \"DatabaseDriversLRU\": [\r\n      \"mysql\"\r\n    ],\r\n    \"com.intellij.ide.scratch.LRUPopupBuilder$1/\": [\r\n      \"MySQL\"\r\n    ]\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CreateClassDialog.RecentsKey\">\r\n      <recent name=\"com.currencymarket.service.impl\" />\r\n      <recent name=\"com.currencymarket.repository\" />\r\n      <recent name=\"org.example.repository\" />\r\n      <recent name=\"org.example.repository.impl\" />\r\n    </key>\r\n    <key name=\"CreateTestDialog.Recents.Supers\">\r\n      <recent name=\"junit.framework.TestCase\" />\r\n    </key>\r\n    <key name=\"CreateTestDialog.RecentsKey\">\r\n      <recent name=\"com.currencymarket.service.impl\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Application.TestClass\">\r\n    <configuration name=\"ServerTCP\" type=\"Application\" factoryName=\"Application\" temporary=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.currencymarket.ServerTCP\" />\r\n      <module name=\"CurrencyMarketServer\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"com.currencymarket.utils.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"TestClass\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.currencymarket.TestClass\" />\r\n      <module name=\"CurrencyMarketServer\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"com.currencymarket.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <list>\r\n      <item itemvalue=\"Application.TestClass\" />\r\n      <item itemvalue=\"Application.ServerTCP\" />\r\n    </list>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Application.TestClass\" />\r\n        <item itemvalue=\"Application.ServerTCP\" />\r\n        <item itemvalue=\"Application.ServerTCP\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"1112bb56-dea7-4712-94dd-e0e80d3a4a5f\" name=\"Changes\" comment=\"\" />\r\n      <created>1668107857272</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1668107857272</updated>\r\n      <workItem from=\"1668107858513\" duration=\"3637000\" />\r\n      <workItem from=\"1668115700154\" duration=\"5855000\" />\r\n      <workItem from=\"1668157759136\" duration=\"4978000\" />\r\n      <workItem from=\"1668184939881\" duration=\"10007000\" />\r\n      <workItem from=\"1668239145241\" duration=\"281000\" />\r\n      <workItem from=\"1668239466702\" duration=\"142000\" />\r\n      <workItem from=\"1668239636251\" duration=\"14000\" />\r\n      <workItem from=\"1668239666267\" duration=\"16000\" />\r\n      <workItem from=\"1668239755410\" duration=\"71000\" />\r\n      <workItem from=\"1668239840282\" duration=\"3000\" />\r\n      <workItem from=\"1668239910119\" duration=\"1000\" />\r\n      <workItem from=\"1668240060260\" duration=\"900000\" />\r\n      <workItem from=\"1668240980333\" duration=\"1055000\" />\r\n      <workItem from=\"1668245272112\" duration=\"269000\" />\r\n      <workItem from=\"1668419274887\" duration=\"92000\" />\r\n      <workItem from=\"1668419380708\" duration=\"102000\" />\r\n      <workItem from=\"1668419524011\" duration=\"10000\" />\r\n      <workItem from=\"1668424774116\" duration=\"2946000\" />\r\n      <workItem from=\"1668431855333\" duration=\"135000\" />\r\n      <workItem from=\"1668432011529\" duration=\"1196000\" />\r\n      <workItem from=\"1668598743306\" duration=\"636000\" />\r\n      <workItem from=\"1668611348696\" duration=\"6173000\" />\r\n      <workItem from=\"1668620766386\" duration=\"67000\" />\r\n      <workItem from=\"1668684248076\" duration=\"8317000\" />\r\n      <workItem from=\"1668697037479\" duration=\"671000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"fix: fix password encoder method\">\r\n      <created>1668611740464</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668611740464</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"update chat table(ON CASCADE DELETE), add getAllClient method\">\r\n      <created>1668620826400</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668620826400</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"refactor: rename package for better readability\">\r\n      <created>1668684698476</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668684698476</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"feat: add chat and client interface with implementation\">\r\n      <created>1668684762544</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668684762544</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"feat: add HomePageDto\">\r\n      <created>1668690542375</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1668690542375</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"6\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"fix: fix password encoder method\" />\r\n    <MESSAGE value=\"update chat table(ON CASCADE DELETE), add getAllClient method\" />\r\n    <MESSAGE value=\"refactor: rename package for better readability\" />\r\n    <MESSAGE value=\"feat: add chat and client interface with implementation\" />\r\n    <MESSAGE value=\"feat: add HomePageDto\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"feat: add HomePageDto\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" type=\"java-method\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/com/currencymarket/repository/ClientDao.java</url>\r\n          <line>11</line>\r\n          <properties class=\"com.currencymarket.repository.ClientDao\" method=\"getAllClients\">\r\n            <option name=\"EMULATED\" value=\"true\" />\r\n            <option name=\"WATCH_EXIT\" value=\"false\" />\r\n          </properties>\r\n          <option name=\"timeStamp\" value=\"4\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/com/currencymarket/controller/Controller.java</url>\r\n          <line>26</line>\r\n          <option name=\"timeStamp\" value=\"10\" />\r\n        </line-breakpoint>\r\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\r\n          <url>file://$PROJECT_DIR$/src/main/java/com/currencymarket/repository/impl/RegistrationDaoImpl.java</url>\r\n          <line>23</line>\r\n          <option name=\"timeStamp\" value=\"13\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n    <watches-manager>\r\n      <configuration name=\"Application\">\r\n        <watch expression=\"((SQLSyntaxErrorException)e).cause\" language=\"JAVA\" custom=\"java.sql.SQLSyntaxErrorException\" />\r\n      </configuration>\r\n    </watches-manager>\r\n  </component>\r\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\r\n    <expand />\r\n    <select />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision c2db12c588dfd6404f87674b33bfb4a7b8853f0b)
++++ b/.idea/workspace.xml	(date 1668968346253)
+@@ -4,27 +4,12 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="1112bb56-dea7-4712-94dd-e0e80d3a4a5f" name="Changes" comment="feat: add HomePageDto">
++    <list default="true" id="1112bb56-dea7-4712-94dd-e0e80d3a4a5f" name="Changes" comment="feat: add some statuses to enum">
+       <change afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/TestClass.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/controller/Controller.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/service/RegistrationService.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/service/impl/RegistrationServiceImpl.java" afterDir="false" />
+       <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/test/java/com/currencymarket/service/impl/RegistrationServiceImplTest.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/currencymarket/ServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/ServerApplication.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/currencymarket/command/Exception.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/currencymarket/command/Status.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/command/Status.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/currencymarket/controller/ClientController.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/currencymarket/controller/RegistrationController.java" beforeDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/currencymarket/db/DataBaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/db/DataBaseConnection.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/currencymarket/dto/HomePageDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/dto/HomePageDto.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/currencymarket/dto/SignUpDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/dto/SignUpDto.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/currencymarket/repository/ClientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/repository/ClientDao.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/currencymarket/repository/RegistrationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/repository/RegistrationDao.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/currencymarket/repository/impl/ClientServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/repository/impl/ClientDaoImpl.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/currencymarket/repository/impl/RegistrationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/repository/impl/RegistrationDaoImpl.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/test/java/com/currencymarket/service/impl/RegistrationServiceImplTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/currencymarket/service/impl/RegistrationServiceImplTest.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -63,34 +48,34 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "WebServerToolWindowFactoryState": "false",
+-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit3",
+-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
+-    "jdk.selected.JAVA_MODULE": "openjdk-19",
+-    "last_opened_file_path": "D:/CurrencyMarket-master",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "project.structure.last.edited": "Modules",
+-    "project.structure.proportion": "0.0",
+-    "project.structure.side.proportion": "0.0",
+-    "settings.editor.selected.configurable": "preferences.pluginManager"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
++    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit3&quot;,
++    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3&quot;: &quot;junit.framework.TestCase&quot;,
++    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19&quot;,
++    &quot;last_opened_file_path&quot;: &quot;D:/CurrencyMarket-master&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
++    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
++    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+   },
+-  "keyToStringList": {
+-    "DatabaseDriversLRU": [
+-      "mysql"
++  &quot;keyToStringList&quot;: {
++    &quot;DatabaseDriversLRU&quot;: [
++      &quot;mysql&quot;
+     ],
+-    "com.intellij.ide.scratch.LRUPopupBuilder$1/": [
+-      "MySQL"
++    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/&quot;: [
++      &quot;MySQL&quot;
+     ]
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="CreateClassDialog.RecentsKey">
+       <recent name="com.currencymarket.service.impl" />
+@@ -105,7 +90,7 @@
+       <recent name="com.currencymarket.service.impl" />
+     </key>
+   </component>
+-  <component name="RunManager" selected="Application.TestClass">
++  <component name="RunManager" selected="JUnit.RegistrationServiceImplTest.testRegister">
+     <configuration name="ServerTCP" type="Application" factoryName="Application" temporary="true">
+       <option name="MAIN_CLASS_NAME" value="com.currencymarket.ServerTCP" />
+       <module name="CurrencyMarketServer" />
+@@ -128,6 +113,22 @@
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="RegistrationServiceImplTest.testRegister" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
++      <module name="CurrencyMarketServer" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="com.currencymarket.service.impl.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <option name="PACKAGE_NAME" value="com.currencymarket.service.impl" />
++      <option name="MAIN_CLASS_NAME" value="com.currencymarket.service.impl.RegistrationServiceImplTest" />
++      <option name="METHOD_NAME" value="testRegister" />
++      <option name="TEST_OBJECT" value="method" />
+       <method v="2">
+         <option name="Make" enabled="true" />
+       </method>
+@@ -135,9 +136,11 @@
+     <list>
+       <item itemvalue="Application.TestClass" />
+       <item itemvalue="Application.ServerTCP" />
++      <item itemvalue="JUnit.RegistrationServiceImplTest.testRegister" />
+     </list>
+     <recent_temporary>
+       <list>
++        <item itemvalue="JUnit.RegistrationServiceImplTest.testRegister" />
+         <item itemvalue="Application.TestClass" />
+         <item itemvalue="Application.ServerTCP" />
+         <item itemvalue="Application.ServerTCP" />
+@@ -176,7 +179,9 @@
+       <workItem from="1668611348696" duration="6173000" />
+       <workItem from="1668620766386" duration="67000" />
+       <workItem from="1668684248076" duration="8317000" />
+-      <workItem from="1668697037479" duration="671000" />
++      <workItem from="1668697037479" duration="955000" />
++      <workItem from="1668712390227" duration="3232000" />
++      <workItem from="1668967830913" duration="515000" />
+     </task>
+     <task id="LOCAL-00001" summary="fix: fix password encoder method">
+       <created>1668611740464</created>
+@@ -213,7 +218,28 @@
+       <option name="project" value="LOCAL" />
+       <updated>1668690542375</updated>
+     </task>
+-    <option name="localTasksCounter" value="6" />
++    <task id="LOCAL-00006" summary="feat: add register and sigh_in method to Registration Service&#10;fix: change return type of sign_up and sign_in methods">
++      <created>1668697810926</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1668697810926</updated>
++    </task>
++    <task id="LOCAL-00007" summary="feat: add home page dto method">
++      <created>1668697847261</created>
++      <option name="number" value="00007" />
++      <option name="presentableId" value="LOCAL-00007" />
++      <option name="project" value="LOCAL" />
++      <updated>1668697847261</updated>
++    </task>
++    <task id="LOCAL-00008" summary="feat: add some statuses to enum">
++      <created>1668697898804</created>
++      <option name="number" value="00008" />
++      <option name="presentableId" value="LOCAL-00008" />
++      <option name="project" value="LOCAL" />
++      <updated>1668697898804</updated>
++    </task>
++    <option name="localTasksCounter" value="9" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -236,7 +262,10 @@
+     <MESSAGE value="refactor: rename package for better readability" />
+     <MESSAGE value="feat: add chat and client interface with implementation" />
+     <MESSAGE value="feat: add HomePageDto" />
+-    <option name="LAST_COMMIT_MESSAGE" value="feat: add HomePageDto" />
++    <MESSAGE value="feat: add register and sigh_in method to Registration Service&#10;fix: change return type of sign_up and sign_in methods" />
++    <MESSAGE value="feat: add home page dto method" />
++    <MESSAGE value="feat: add some statuses to enum" />
++    <option name="LAST_COMMIT_MESSAGE" value="feat: add some statuses to enum" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
+Index: pom.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project xmlns=\"http://maven.apache.org/POM/4.0.0\"\r\n         xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"\r\n         xsi:schemaLocation=\"http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd\">\r\n    <modelVersion>4.0.0</modelVersion>\r\n\r\n    <groupId>org.example</groupId>\r\n    <artifactId>CurrencyMarketServer</artifactId>\r\n    <version>1.0-SNAPSHOT</version>\r\n\r\n    <properties>\r\n        <maven.compiler.source>19</maven.compiler.source>\r\n        <maven.compiler.target>19</maven.compiler.target>\r\n        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>\r\n    </properties>\r\n\r\n    <dependencies>\r\n        <dependency>\r\n            <groupId>mysql</groupId>\r\n            <artifactId>mysql-connector-java</artifactId>\r\n            <version>8.0.31</version>\r\n        </dependency>\r\n\r\n    </dependencies>\r\n\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/pom.xml b/pom.xml
+--- a/pom.xml	(revision c2db12c588dfd6404f87674b33bfb4a7b8853f0b)
++++ b/pom.xml	(date 1668697168479)
+@@ -20,7 +20,12 @@
+             <artifactId>mysql-connector-java</artifactId>
+             <version>8.0.31</version>
+         </dependency>
+-
++        <dependency>
++            <groupId>junit</groupId>
++            <artifactId>junit</artifactId>
++            <version>4.13.1</version>
++            <scope>test</scope>
++        </dependency>
+     </dependencies>
+ 
+ </project>
+\ No newline at end of file
+Index: src/main/java/com/currencymarket/TestClass.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/com/currencymarket/TestClass.java b/src/main/java/com/currencymarket/TestClass.java
+new file mode 100644
+--- /dev/null	(date 1668697993299)
++++ b/src/main/java/com/currencymarket/TestClass.java	(date 1668697993299)
+@@ -0,0 +1,42 @@
++package com.currencymarket;
++
++
++import com.currencymarket.command.ClientAction;
++import com.currencymarket.dto.SignUpDto;
++import com.currencymarket.utils.ClientServerCommunication;
++
++import java.io.IOException;
++import java.net.Socket;
++
++public class TestClass {
++    static ClientServerCommunication clientServerCommunication;
++
++    public static void main(String[] args) {
++        try {
++             TestClass.clientServerCommunication = new ClientServerCommunication(new Socket("127.0.0.1", 8000));
++        } catch (IOException e) {
++            throw new RuntimeException(e);
++        }
++
++        System.out.println(sign_in());
++    }
++
++    public static Object sign_up() {
++        SignUpDto signUpDto = new SignUpDto();
++        signUpDto.setPassword("123");
++        signUpDto.setUsername("312");
++
++        clientServerCommunication.writeObject(ClientAction.SIGN_UP);
++        clientServerCommunication.writeObject(signUpDto);
++        return clientServerCommunication.readObject();
++    }
++
++    public static Object sign_in() {
++        SignUpDto signUpDto = new SignUpDto();
++        signUpDto.setPassword("asdadasdas");
++        signUpDto.setUsername("asdasdads");
++        clientServerCommunication.writeObject(ClientAction.SIGN_IN);
++        clientServerCommunication.writeObject(signUpDto);
++        return clientServerCommunication.readObject();
++    }
++}
+Index: src/test/java/com/currencymarket/service/impl/RegistrationServiceImplTest.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package com.currencymarket.service.impl;\r\n\r\nimport junit.framework.TestCase;\r\n\r\n\r\npublic class RegistrationServiceImplTest extends TestCase {\r\n\r\n    public void testRegister() {\r\n\r\n    }\r\n\r\n    public void testSign_in() {\r\n    }\r\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/test/java/com/currencymarket/service/impl/RegistrationServiceImplTest.java b/src/test/java/com/currencymarket/service/impl/RegistrationServiceImplTest.java
+--- a/src/test/java/com/currencymarket/service/impl/RegistrationServiceImplTest.java	(revision c2db12c588dfd6404f87674b33bfb4a7b8853f0b)
++++ b/src/test/java/com/currencymarket/service/impl/RegistrationServiceImplTest.java	(date 1668713875607)
+@@ -1,12 +1,34 @@
+ package com.currencymarket.service.impl;
+ 
++import com.currencymarket.command.ClientAction;
++import com.currencymarket.dto.SignUpDto;
++import com.currencymarket.utils.ClientServerCommunication;
+ import junit.framework.TestCase;
++import org.junit.Test;
++
++import java.io.IOException;
++import java.net.Socket;
+ 
+ 
+ public class RegistrationServiceImplTest extends TestCase {
++    ClientServerCommunication clientServerCommunication;
+ 
++    {
++        try {
++            clientServerCommunication = new ClientServerCommunication(new Socket("127.0.0.1", 8000));
++        } catch (IOException e) {
++            throw new RuntimeException(e);
++        }
++    }
++
++    @Test
+     public void testRegister() {
++        SignUpDto signUpDto = new SignUpDto();
++        signUpDto.setPassword("123");
++        signUpDto.setUsername("312");
+ 
++        clientServerCommunication.writeObject(ClientAction.SIGN_UP);
++        clientServerCommunication.writeObject(signUpDto);
+     }
+ 
+     public void testSign_in() {
+diff --git a/src/main/resources/application.properties b/src/main/resources/application.properties
+new file mode 100644

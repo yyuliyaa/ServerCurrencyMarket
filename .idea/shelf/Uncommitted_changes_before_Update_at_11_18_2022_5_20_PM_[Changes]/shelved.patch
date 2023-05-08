@@ -1,0 +1,68 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -5,22 +5,7 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="1112bb56-dea7-4712-94dd-e0e80d3a4a5f" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/Utils/PasswordEncoder.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/controller/ClientController.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/repository/ClientService.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/repository/impl/ClientServiceImpl.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/currencymarket/ServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/ServerApplication.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/currencymarket/client/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/Utils/ClientServerCommunication.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/currencymarket/command/ClientAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/command/ClientAction.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/currencymarket/controller/RequestHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/controller/RegistrationController.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/currencymarket/db/DataBaseConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/db/DataBaseConnection.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/currencymarket/dto/SignUpDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/dto/SignUpDto.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/currencymarket/entity/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/entity/Client.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/currencymarket/repository/IClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/repository/RegistrationService.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/java/com/currencymarket/repository/impl/ClientImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/currencymarket/repository/impl/RegistrationServiceImpl.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/main/resources/db/migration/db.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/db/migration/db.sql" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -63,6 +48,7 @@
+     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;false&quot;,
+     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-19&quot;,
+     &quot;last_opened_file_path&quot;: &quot;D:/CurrencyMarket-master&quot;,
+@@ -182,7 +168,17 @@
+       <workItem from="1668431855333" duration="135000" />
+       <workItem from="1668432011529" duration="1196000" />
+       <workItem from="1668598743306" duration="636000" />
++      <workItem from="1668610964747" duration="664000" />
++      <workItem from="1668723604100" duration="7000" />
++    </task>
++    <task id="LOCAL-00001" summary="feat: add password encoder">
++      <created>1668611023748</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1668611023748</updated>
+     </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -198,6 +194,10 @@
+         </entry>
+       </map>
+     </option>
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="feat: add password encoder" />
++    <option name="LAST_COMMIT_MESSAGE" value="feat: add password encoder" />
+   </component>
+   <component name="XDebuggerManager">
+     <watches-manager>
